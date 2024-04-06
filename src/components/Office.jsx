@@ -130,7 +130,7 @@ export function Office(props) {
         animate={{
           scale: section === 0 ? 1 : 0,
         }}
-        name="WawaRug"
+        name="manjunath"
         geometry={nodes.WawaRug.geometry}
         material={textureMaterial}
         position={[-0.28, 0.01, 0.76]}
