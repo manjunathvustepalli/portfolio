@@ -75,7 +75,6 @@ export const Experience = (props) => {
     // characterContainerAboutRef.current.getWorldQuaternion(quaternion);
     // const euler = new THREE.Euler();
     // euler.setFromQuaternion(quaternion, "XYZ");
-
     // console.log([euler.x, euler.y, euler.z]);
   });
 
