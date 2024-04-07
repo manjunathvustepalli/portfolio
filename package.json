@@ -1,5 +1,5 @@
 {
-  "homepage": "https://manjunathvustepalli.github.io/portfolio/",
+  "homepage": "http://manjunathvustepalli.github.io/portfolio/",
   "name": "r3f-vite-starter",
   "private": true,
   "version": "1.0.0",
@@ -7,9 +7,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
+   
     "predeploy":"npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@formspree/react": "^2.4.2",
